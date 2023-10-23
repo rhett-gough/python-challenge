@@ -7,11 +7,14 @@ Python File locations:
     PyPoll: python_challenge/code_files/GoughE_PyPoll_Code
 
 Output file locations:
+
     PyBank: python_challenge/output/financial_analysis
     PyPoll: python_challenge/output/election_results
 
 Works Cited:
+
     PyBank:
+    
         Line 51: ".pop(0)" code provided by GeeksforGeeks <https://www.geeksforgeeks.org/python-removing-first-element-of-list/>
 
         Line 58: "\n" code provided by Pythontutorial.net <https://www.pythontutorial.net/python-basics/python-write-text-file/>
@@ -19,6 +22,7 @@ Works Cited:
         Line 76: Code for printing as text file provided by Pythontutorial.net <https://www.pythontutorial.net/python-basics/python-write-text-file/>
 
     PyPool:
+    
         Line 39: "not in" code provided by W3docs <https://www.w3docs.com/snippets/python/check-if-something-is-not-in-a-list-in-python.html>
 
         Line 55: Code for printing as text file provided by Pythontutorial.net <https://www.pythontutorial.net/python-basics/python-write-text-file/>
