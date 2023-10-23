@@ -10,6 +10,7 @@ Output file locations
     PyPoll: python_challenge/output/election_results
 
 Works Cited
+    
     PyBank:
         Line 51: ".pop(0)" code provided by GeeksforGeeks <https://www.geeksforgeeks.org/python-removing-first-element-of-list/>
 
