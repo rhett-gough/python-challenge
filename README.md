@@ -1,16 +1,16 @@
 # python-challenge
 Module 3 Challenge
 
-Python File locations
+Python File locations:
+
     PyBank: python_challenge/code_files/GoughE_PyBank_Code
     PyPoll: python_challenge/code_files/GoughE_PyPoll_Code
 
-Output file locations
+Output file locations:
     PyBank: python_challenge/output/financial_analysis
     PyPoll: python_challenge/output/election_results
 
-Works Cited
-    
+Works Cited:
     PyBank:
         Line 51: ".pop(0)" code provided by GeeksforGeeks <https://www.geeksforgeeks.org/python-removing-first-element-of-list/>
 
